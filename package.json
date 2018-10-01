@@ -1,0 +1,24 @@
+{
+  "name": "vueApp",
+  "description": "curso",
+  "version": "1.0.0",
+  "author": "Ruben E Acosta <eldragondera1@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4",
+    "save": "^2.3.2",
+    "vue": "^2.5.17"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "devDependencies": {}
+}
