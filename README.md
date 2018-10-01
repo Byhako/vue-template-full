@@ -1,4 +1,4 @@
-# React Template Full
+# Vue Template Full
 
 + Template for an Vue application, with Pug, Eslint, Sass and Bootstrap, all orchestrated with webpack 4.
 
